@@ -6,14 +6,14 @@ To analyze and visualize key demographic, literacy, and workforce patterns acros
 
 
 ## 📊 Key Performance Indicators (KPIs)
-| KPI Name                                     | Description | 
-| 🧍‍♂️ Total Population Split                   | By Block, Town, Village; segmented by gender | 
-| 🎓 Literacy Rate by Gender & Area           | % Literate = (Total Literates / Total Population) × 100 | 
-| 💼 Workforce Participation Rate             | % Workers = (Total Workers / Total Population) × 100 | 
-| 🎯 Female Literacy & Employment Index       | Measures gender development (literacy & jobs ratio) | 
-| 🧬 Scheduled Castes/Tribes Composition      | Share of SC/ST population area-wise | 
-| 🌍 Urbanization Rate                        | Town population vs village population (% contribution) | 
-| 🔍 Dependency Ratio (optional)              | Non-working population / working population | 
+| KPI Name                                    
+| 🧍‍♂️ Total Population Split                  
+| 🎓 Literacy Rate by Gender & Area         
+| 💼 Workforce Participation Rate           
+| 🎯 Female Literacy & Employment Index      
+| 🧬 Scheduled Castes/Tribes Composition    
+| 🌍 Urbanization Rate                      
+| 🔍 Dependency Ratio (optional)      
 
 ## Project Insights
 - Towns show higher literacy and working population rates than villages, especially among females.
